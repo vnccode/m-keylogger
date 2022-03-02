@@ -1,2 +1,2 @@
 # m-keylogger
-m-Keylogger  keylogging , clipboard , wallets  grabber , desktop  files , cookies , passwords
+m-Keylogger  keylogging , clipboard , desktop  files , cookies , passwords
