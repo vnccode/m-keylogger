@@ -15,7 +15,7 @@ Upload the gate.php file to the web server and set the file permissions
 
 Run builder.exe  enter url
 
-for  example:   subdomain.freehost.edu/gate.php or  mydomain.edu/gate.pgp 
+For  example:   subdomain.freehost.edu/gate.php or  mydomain.edu/gate.pgp 
 
 127.0.0.1/gate.php
 
