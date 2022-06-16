@@ -1,13 +1,13 @@
 
-Keylogger - stealer
+Keylogger - Stealer
 
-Autorun
+Keylogging , log sending interval 2 hours 
 
-Keylogging
-
-Clipboard
+Clipboard data
 
 Desktop Files
+
+Autorun
 
 Chrome , Firefox, Egde Passwords and Cookies
 
