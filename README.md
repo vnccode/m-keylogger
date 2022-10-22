@@ -1,5 +1,5 @@
 
-Keylogger - Stealer
+C++ coded Keylogger - Stealer
 
 Keylogging , log sending interval 2 hours 
 
