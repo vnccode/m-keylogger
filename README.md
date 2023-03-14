@@ -1,7 +1,7 @@
 
 C++ coded Keylogger
 
-Keylogging 
+Keylogging ,
 Clipboard data
 
 Upload the gate.php file to the web server and set the file permissions
