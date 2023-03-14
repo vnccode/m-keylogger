@@ -1,15 +1,8 @@
 
-C++ coded Stealer - Keylogger
+C++ coded Keylogger
 
-Keylogging , log sending interval 2 hours 
-
+Keylogging 
 Clipboard data
-
-Desktop Files
-
-Autorun
-
-Chrome , Firefox, Egde Passwords and Cookies
 
 Upload the gate.php file to the web server and set the file permissions
 
